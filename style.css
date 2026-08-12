@@ -5,7 +5,7 @@ p {
 h1 {
   font-family: "Space Mono", monospace;
 }
-rainbow-text {
+a {
  font-weight: bold;
  background: linear-gradient(
    to right,
