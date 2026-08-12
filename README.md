@@ -1,2 +1,2 @@
-# gitsnup.github.io
+# [gitsnup.github.io]
 my site >:]
