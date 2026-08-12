@@ -5,4 +5,25 @@ p {
 h1 {
   font-family: "Space Mono", monospace;
 }
+rainbow-text {
+ font-weight: bold;
+ background: linear-gradient(
+   to right,
+   #ff0000,
+   #ff9900,
+   #ffff00,
+   #33cc33,
+   #3399ff,
+   #9900cc,
+   #ff0000
+ );
+ background-size: 400% 100%;
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ animation: rainbow-move 6s ease-in-out infinite;
+}
+@keyframes rainbow-move {
+ 0%, 100% { background-position: 0% 50%; }
+ 50% { background-position: 100% 50%; }
+}
 /* hi guyes */
