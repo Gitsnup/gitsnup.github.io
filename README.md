@@ -1,2 +1,2 @@
-# [gitsnup.github.io]
-my site >:]
+# [gitsnup.github.io](gitsnup.github.io)
+cutting ropes beyond time itself
